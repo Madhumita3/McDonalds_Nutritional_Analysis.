@@ -13,5 +13,4 @@ This repository contains an analysis of the nutritional content of McDonald's me
 ## Structure
 - `data/`: Contains the dataset used for analysis.
 - `notebooks/`: Jupyter notebooks with Exploratory Data Analysis (EDA).
-- `scripts/`: Python scripts for data preprocessing, visualization, and analysis.
 - `results/`: Contains output files, visualizations, and insights.
